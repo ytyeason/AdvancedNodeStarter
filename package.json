@@ -7,7 +7,7 @@
   "main": "index.js",
   "engines": {
     "node": "^14.5.0",
-    "yarn": "^1.17.0"
+    "yarn": "^1.3.2"
   },
   "_moduleAliases": {
     "@config": "./config",
